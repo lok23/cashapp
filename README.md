@@ -1,5 +1,4 @@
 - Instructions on how to run your project
-<br>
 Unzip the project, then open the "Cashapp" app in android studio. To test the different API calls,
 uncomment "getValidCashAppData()", "getMalformedCashAppData()", or "getEmptyCashAppData()" in the 
 CashAppViewModel.kt init block. Make sure only one is uncommented at a time.
